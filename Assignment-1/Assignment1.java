@@ -96,3 +96,46 @@ public class Assignment1 {
         sc.close();
     }
 }
+
+/*PS D:\College\Sem 6\MPJ\MPJ - Lab Work\Assignment-1> cd "d:\College\Sem 6\MPJ\MPJ - Lab Work\Assignment-1\" ; if ($?) { javac Assignment1.java } ; if ($?) { java Assignment1 }
+Enter number of students: 2
+
+Enter details of Student 1
+Enter Name: Rishav Singh
+Enter Roll No: 1
+Enter marks of 5 subjects:
+Subject 1: 9
+Subject 2: 98
+Subject 3: 87
+Subject 4: 98
+Subject 5: 98
+
+Enter details of Student 2
+Enter Name: Kunal Tailor
+Enter Roll No: 2
+Enter marks of 5 subjects:
+Subject 1: 89
+Subject 2: 79
+Subject 3: 89
+Subject 4: 86
+Subject 5: 88
+
+========= STUDENT RESULTS =========
+
+------------------------------
+Name       : Rishav Singh
+Roll No    : 1
+Marks      : 9 98 87 98 98
+Percentage : 78.0
+Grade      : A
+
+------------------------------
+Name       : Kunal Tailor
+Roll No    : 2
+Marks      : 89 79 89 86 88
+Percentage : 86.2
+Grade      : A
+
+=================================
+Class Average Percentage = 82.1
+PS D:\College\Sem 6\MPJ\MPJ - Lab Work\Assignment-1>  */
