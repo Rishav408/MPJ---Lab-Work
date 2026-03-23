@@ -1,0 +1,3 @@
+ID: 1 | Name: Rishav Singh | Balance: 6000.0
+ID: 2 | Name: Kunal Tailor | Balance: 3500.0
+ID: 3 | Name: Prakash | Balance: 3500.0
