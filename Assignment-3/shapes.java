@@ -32,6 +32,6 @@ class Shapes {
         // Calling overloaded methods
         myShape.calculateArea(5.0);        // Square
         myShape.calculateArea(10.0, 4.0);  // Rectangle
-        myShape.calculateArea(7.0f);       // Circle
+        myShape.calculateArea(7.0);       // Circle
     }
 }
